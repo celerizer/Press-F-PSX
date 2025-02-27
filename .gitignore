@@ -1,0 +1,7 @@
+
+*.o
+*.ps-exe
+*.map
+*.elf
+/tmp
+*.dep

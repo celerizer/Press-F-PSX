@@ -1,0 +1,6 @@
+[submodule "nugget"]
+	path = nugget
+	url = https://github.com/pcsx-redux/nugget.git
+[submodule "libpressf"]
+	path = libpressf
+	url = https://github.com/celerizer/libpressf
